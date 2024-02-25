@@ -1,0 +1,14 @@
+Object: A container that made to represent a real-life object. This goal is achieved through two concepts: State and Behaviour.
+The state of an object is defined vía fields, these fields
+can be represented using letters, numbers, text and even other objects. By the other hand, the
+behaviour of an object is defined vía functions. These functions are the actions that the object can do.
+
+Class: A class models the object, his functions, fields and behaviour are defined on this part.
+
+Inheritance: Is a mechanism that allows a class (subclass) inherit the state and behaviour of another class, commonly named "superclass".
+
+Interface: A resource that allows defining the behavior of an object with more formality. It is commonly said that an interface is a
+contract between the class and the outside world (or the compiler), that means the interface has a commitment to "what it does"
+and all classes that implement the interface accept this contract.
+
+Packages: Are namespaces that allows to group and organize code with common names without making conflicts.
